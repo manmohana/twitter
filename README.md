@@ -27,7 +27,9 @@ How to Get Started
 
 	```pip install -r requirements.txt```
 
-3. run the app
+3. Update key.cfg with Consumer Key, Consumer Secret, Access Token, Access Token Secret from https://apps.twitter.com/
+
+4. run the app
 
 	```python tweetfollowers.py common-followers MakeThunder MakeThunder```
 
