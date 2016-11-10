@@ -1,0 +1,4 @@
+twython==3.4.0
+configparser==3.5.0
+requests==2.11.1
+requests-oauthlib==0.7.0
